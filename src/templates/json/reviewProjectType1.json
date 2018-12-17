@@ -1,0 +1,18 @@
+{
+  "project": {
+  "projectId": "",
+  "projectName": "Basic test project"
+  },
+  "tasks": [
+	  {
+	  "taskId": "",
+	  "taskTitle": "The first task in our project",
+	  "taskDescription": "This is the first task someone has to complete"
+	  },
+	  {
+	  "taskId": "",
+	  "taskTitle": "The second task in our project",
+	  "taskDescription": "This is the second task someone has to complete"
+	  }
+  ]
+}
