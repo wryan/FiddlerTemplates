@@ -1,0 +1,41 @@
+{
+  "project": {
+    "projectId": "",
+    "projectType": "Morning routine project",
+    "projectName": "",
+    "projectStatus": "Open"
+  },
+  "processArray": [
+    {
+      "subProcessCategory": "Bedroom Tasks",
+      "subProcessTasks": [
+        {
+          "taskId": "",
+          "taskTitle": "Wake Up",
+          "taskDescription": "When your alarm goes off, wake up and get out of bed.",
+          "taskStatus": "Open",
+          "applicationURI": "http://my.alarmclock.app/"
+        },
+        {
+          "taskId": "",
+          "taskTitle": "Make your bed",
+          "taskDescription": "If it has been seven days since you washed your sheets, replace them with new sheets.",
+          "taskStatus": "Open",
+          "applicationURI": ""
+        }
+      ]
+    },
+    {
+      "category": "Bathroom Tasks",
+      "tasks": [
+        {
+          "taskId": "",
+          "taskTitle": "Clean teeth and take a shower.",
+          "taskDescription": "Brush and floss your teeth. Be careful not to brush too hard. Keep your shower under 7 minutes to conserve water.",
+          "taskStatus": "Open",
+          "applicationURI": "http://my.watermeter.app"
+        }
+      ]
+    }
+  ]
+}

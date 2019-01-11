@@ -1,7 +1,9 @@
 {
   "project": {
   "projectId": "",
-  "projectName": "Basic test project"
+  "projectType": "Basic test project",
+  "projectName": "Basic test project 123456",
+  "projectStatus": "",
   },
   "tasks": [
 	  {
