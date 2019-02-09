@@ -4,7 +4,7 @@
       "projectType":"Technology Patent Review Project at ACME, Inc.",
       "projectName":"",
       "projectStatus":"Open",
-      "teamTemplateURI":"/patentReviewTeam",
+      "teamTemplateURI":"https://raw.githubusercontent.com/wryan/FiddlerTemplates/master/src/templates/json/TechnologyPatentReviewTeamTemplate.json",
       "teamID":""
    },
    "processArray":[
