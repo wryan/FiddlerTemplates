@@ -1,11 +1,11 @@
 {
    "properties":{
-      "projectId":"",
+      "projectId":"a",
       "projectType":"Technology Patent Review Project at ACME, Inc.",
-      "projectName":"",
+      "projectName":"a",
       "projectStatus":"Open",
       "teamTemplateURI":"https://raw.githubusercontent.com/wryan/FiddlerTemplates/master/src/templates/json/TechnologyPatentReviewTeamTemplate.json",
-      "teamID":""
+      "teamID":"a"
    },
    "processesArray":[
       {
