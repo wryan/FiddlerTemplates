@@ -1,0 +1,78 @@
+{
+   "Organization":[
+      {
+         "personName":"Gulnora Svarog",
+         "personID":"GSvarog",
+         "personRoles":[
+            "Document Officer",
+            "Project Manager"
+         ]
+      },
+      {
+         "personName":"Marko Sunil",
+         "personID":"MSunil",
+         "personRoles":[
+            "Project Manager"
+         ]
+      },
+      {
+         "personName":"Habacuc Noburu",
+         "personID":"HNoburu",
+         "personRoles":[
+            "Technology Reviewer"
+         ]
+      },
+      {
+         "personName":"Niklas Seleukos",
+         "personID":"NSeleukos",
+         "personRoles":[
+            "Technology Reviewer",
+            "Science Reviewer"
+         ]
+      },
+      {
+         "personName":"Nettie Timofei",
+         "personID":"NTimofei",
+         "personRoles":[
+            "Legal Reviewer"
+         ]
+      },
+      {
+         "personName":"Sung Jeremias",
+         "personID":"SJeremias",
+         "personRoles":[
+            "Science Reviewer"
+         ]
+      },
+      {
+         "personName":"Roshan Rauha",
+         "personID":"RRauha",
+         "personRoles":[
+            "Science Reviewer"
+         ]
+      },
+      {
+         "personName":"Catahecassa Jezabel",
+         "personID":"CJezabel",
+         "personRoles":[
+            "Legal Reviewer"
+         ]
+      },
+      {
+         "personName":"Wasswa Loukios",
+         "personID":"WLoukios",
+         "personRoles":[
+            "Document Officer",
+            "Project Manager",
+            "Technology Reviewer"
+         ]
+      },
+      {
+         "personName":"Sasha Wolfe",
+         "personID":"SWolfe",
+         "personRoles":[
+            "Science Reviewer"
+         ]
+      }
+   ]
+}
