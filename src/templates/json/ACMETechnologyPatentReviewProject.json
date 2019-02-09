@@ -1,0 +1,182 @@
+{
+   "project":{
+      "projectId":"",
+      "projectType":"Technology Patent Review Project at ACME, Inc.",
+      "projectName":"",
+      "projectStatus":"Open",
+      "teamTemplateURI":"/patentReviewTeam",
+      "teamID":""
+   },
+   "processArray":[
+      {
+         "subProcessCategory":"Patent Receipt and Validation",
+         "subProcessTasks":[
+            {
+               "taskId":"",
+               "taskTitle":"Process documents and assign project manager",
+               "taskDescription":"Confirm patent has all required documents and validate metadata in repository",
+               "taskReferenceList":[
+
+               ],
+               "taskStatusHistory":[
+
+               ],
+               "taskRoles":[
+                  "Document Officer"
+               ],
+               "applicationURI":"http://acme.DocumentRepository.app/"
+            }
+         ]
+      },
+      {
+         "subProcesscategory":"Create Project Team",
+         "tasks":[
+            {
+               "taskId":"",
+               "taskTitle":"Assign available resources to project team",
+               "taskDescription":"Identify resources with correct skills to review patent. Confirm availability before assigning to team.",
+               "taskReferenceList":[
+
+               ],
+               "taskStatusHistory":[
+
+               ],
+               "taskRoles":[
+                  "Project Manager"
+               ],
+               "applicationURI":"http://acme.TeamManagement.app/"
+            }
+         ]
+      },
+      {
+         "subProcesscategory":"Patent Review",
+         "tasks":[
+            {
+               "taskId":"",
+               "taskTitle":"Conduct patent review kick-off meeting",
+               "taskDescription":"Schedule review kick-off meeting and send meeting agenda to team. Conduct meeting. Compile minutes and upload to repository.",
+               "taskReferenceList":[
+                  {
+                     "referenceName":"Patent Review Kick-Off Agenda Template",
+                     "referenceDescription":"",
+                     "referenceType":"Template",
+                     "referenceURI":"http://acme.documents.app/patent_review_kickoff_meeting_agenda.doc"
+                  }
+               ],
+               "taskStatusHistory":[
+
+               ],
+               "taskRoles":[
+                  "Project Manager"
+               ],
+               "applicationURI":"http://acme.MeetingManagement.app/"
+            },
+            {
+               "taskId":"",
+               "taskTitle":"Complete technology review",
+               "taskDescription":"Review patent technology. Confirm uniqueness of product. Upload technoloy review memo to repository.",
+               "taskReferenceList":[
+                  {
+                     "referenceName":"Patent Review Memo Template",
+                     "referenceDescription":"",
+                     "referenceType":"Template",
+                     "referenceURI":"http://acme.documents.app/review_memo.doc"
+                  }
+               ],
+               "taskStatusHistory":[
+
+               ],
+               "taskRoles":[
+                  "Technology Reviewer"
+               ],
+               "applicationURI":"http://acme.DocumentRepositoryUpload.app/"
+            },
+            {
+               "taskId":"",
+               "taskTitle":"Complete science review",
+               "taskDescription":"Review scientific basis of patent. Confirm validity of product. Upload science review memo to repository.",
+               "taskReferenceList":[
+                  {
+                     "referenceName":"Patent Review Memo Template",
+                     "referenceDescription":"",
+                     "referenceType":"Template",
+                     "referenceURI":"http://acme.documents.app/review_memo.doc"
+                  }
+               ],
+               "taskStatusHistory":[
+
+               ],
+               "taskRoles":[
+                  "Science Reviewer"
+               ],
+               "applicationURI":"http://acme.DocumentRepositoryUpload.app/"
+            },
+            {
+               "taskId":"",
+               "taskTitle":"Complete legal review",
+               "taskDescription":"Review legal aspect of patent. Confirm legality of product. Upload legal review memo to repository.",
+               "taskReferenceList":[
+                  {
+                     "referenceName":"Patent Review Memo Template",
+                     "referenceDescription":"",
+                     "referenceType":"Template",
+                     "referenceURI":"http://acme.documents.app/review_memo.doc"
+                  }
+               ],
+               "taskStatusHistory":[
+
+               ],
+               "taskRoles":[
+                  "Legal Reviewer"
+               ],
+               "applicationURI":"http://acme.DocumentRepositoryUpload.app/"
+            }
+         ]
+      },
+      {
+         "subProcesscategory":"Patent Review Final Decision",
+         "tasks":[
+            {
+               "taskId":"",
+               "taskTitle":"Conduct patent review decision meeting",
+               "taskDescription":"Schedule review decision meeting and send meeting agenda to team. Conduct meeting. Compile minutes and upload to repository.",
+               "taskReferenceList":[
+                  {
+                     "referenceName":"Patent Review Kick-Off Agenda Template",
+                     "referenceDescription":"",
+                     "referenceType":"Template",
+                     "referenceURI":"http://acme.documents.app/patent_review_decision_meeting_agenda.doc"
+                  }
+               ],
+               "taskStatusHistory":[
+
+               ],
+               "taskRoles":[
+                  "Project Manager"
+               ],
+               "applicationURI":"http://acme.MeetingManagement.app/"
+            },
+            {
+               "taskId":"",
+               "taskTitle":"Inform client of decision",
+               "taskDescription":"Send client formal decision. Schedule follow-up call if approved.",
+               "taskReferenceList":[
+                  {
+                     "referenceName":"Patent Review Decision Template",
+                     "referenceDescription":"",
+                     "referenceType":"Template",
+                     "referenceURI":"http://acme.documents.app/review_decision.doc"
+                  }
+               ],
+               "taskStatusHistory":[
+
+               ],
+               "taskRoles":[
+                  "Technology Reviewer"
+               ],
+               "applicationURI":"http://acme.DocumentRepositoryUpload.app/"
+            }
+         ]
+      }
+   ]
+}
