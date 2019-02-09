@@ -1,5 +1,5 @@
 {
-   "project":{
+   "properties":{
       "projectId":"",
       "projectType":"Technology Patent Review Project at ACME, Inc.",
       "projectName":"",
@@ -7,7 +7,7 @@
       "teamTemplateURI":"https://raw.githubusercontent.com/wryan/FiddlerTemplates/master/src/templates/json/TechnologyPatentReviewTeamTemplate.json",
       "teamID":""
    },
-   "processArray":[
+   "processesArray":[
       {
          "subProcessCategory":"Patent Receipt and Validation",
          "subProcessTasks":[
