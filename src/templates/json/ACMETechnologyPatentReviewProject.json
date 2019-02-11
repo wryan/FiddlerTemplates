@@ -24,7 +24,7 @@
       },
       {
          "subProcesscategory": "Create Project Team",
-         "tasks": [
+         "subProcessTasks": [
             {
                "taskId": "",
                "taskTitle": "Assign available resources to project team",
@@ -40,7 +40,7 @@
       },
       {
          "subProcesscategory": "Patent Review",
-         "tasks": [
+         "subProcessTasks": [
             {
                "taskId": "",
                "taskTitle": "Conduct patent review kick-off meeting",
@@ -117,7 +117,7 @@
       },
       {
          "subProcesscategory": "Patent Review Final Decision",
-         "tasks": [
+         "subProcessTasks": [
             {
                "taskId": "",
                "taskTitle": "Conduct patent review decision meeting",
