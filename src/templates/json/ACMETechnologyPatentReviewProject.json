@@ -18,7 +18,7 @@
                "taskRoles": [
                   "Document Officer"
                ],
-               "applicationURI": "http://acme.DocumentRepository.app/"
+               "taskApplicationURI": "http://acme.DocumentRepository.app/"
             }
          ]
       },
@@ -34,7 +34,7 @@
                "taskRoles": [
                   "Project Manager"
                ],
-               "applicationURI": "http://acme.TeamManagement.app/"
+               "taskApplicationURI": "http://acme.TeamManagement.app/"
             }
          ]
       },
@@ -57,7 +57,7 @@
                "taskRoles": [
                   "Project Manager"
                ],
-               "applicationURI": "http://acme.MeetingManagement.app/"
+               "taskApplicationURI": "http://acme.MeetingManagement.app/"
             },
             {
                "taskId": "",
@@ -75,7 +75,7 @@
                "taskRoles": [
                   "Technology Reviewer"
                ],
-               "applicationURI": "http://acme.DocumentRepositoryUpload.app/"
+               "taskApplicationURI": "http://acme.DocumentRepositoryUpload.app/"
             },
             {
                "taskId": "",
@@ -93,7 +93,7 @@
                "taskRoles": [
                   "Science Reviewer"
                ],
-               "applicationURI": "http://acme.DocumentRepositoryUpload.app/"
+               "taskApplicationURI": "http://acme.DocumentRepositoryUpload.app/"
             },
             {
                "taskId": "",
@@ -111,7 +111,7 @@
                "taskRoles": [
                   "Legal Reviewer"
                ],
-               "applicationURI": "http://acme.DocumentRepositoryUpload.app/"
+               "taskApplicationURI": "http://acme.DocumentRepositoryUpload.app/"
             }
          ]
       },
@@ -134,7 +134,7 @@
                "taskRoles": [
                   "Project Manager"
                ],
-               "applicationURI": "http://acme.MeetingManagement.app/"
+               "taskApplicationURI": "http://acme.MeetingManagement.app/"
             },
             {
                "taskId": "",
@@ -152,7 +152,7 @@
                "taskRoles": [
                   "Technology Reviewer"
                ],
-               "applicationURI": "http://acme.DocumentRepositoryUpload.app/"
+               "taskApplicationURI": "http://acme.DocumentRepositoryUpload.app/"
             }
          ]
       }
