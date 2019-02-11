@@ -4,7 +4,7 @@
    "projectName": "a",
    "projectStatus": "Open",
    "teamTemplateURI": "https://raw.githubusercontent.com/wryan/FiddlerTemplates/master/src/templates/json/TechnologyPatentReviewTeamTemplate.json",
-   "teamID": "a",
+   "teamID": "",
    "processesArray": [
       {
          "subProcessCategory": "Patent Receipt and Validation",
