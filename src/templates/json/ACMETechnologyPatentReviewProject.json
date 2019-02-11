@@ -23,7 +23,7 @@
          ]
       },
       {
-         "subProcesscategory": "Create Project Team",
+         "subProcessCategory": "Create Project Team",
          "subProcessTasks": [
             {
                "taskId": "",
@@ -39,7 +39,7 @@
          ]
       },
       {
-         "subProcesscategory": "Patent Review",
+         "subProcessCategory": "Patent Review",
          "subProcessTasks": [
             {
                "taskId": "",
@@ -116,7 +116,7 @@
          ]
       },
       {
-         "subProcesscategory": "Patent Review Final Decision",
+         "subProcessCategory": "Patent Review Final Decision",
          "subProcessTasks": [
             {
                "taskId": "",
